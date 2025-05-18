@@ -285,7 +285,7 @@ After engagements or tests, remove any artifacts (listeners, dropped files, tick
 
 ## ✅ Final Tip
 
-🔁 **Repetition and real-world simulation is key.** Go through this cheat sheet repeatedly until every phase becomes second nature. The more you internalize the *why* and *how*, the better you'll perform in actual red team scenarios or exams like CRTA or OSCP.
+🔁 **Repetition and real-world simulation is key.** Go through this cheat sheet repeatedly until every phase becomes second nature. The more you internalize the *why* and *how*, the better you'll perform in actual red team scenarios or exams like CRTA.
 
 Happy hacking!⚔️
 
